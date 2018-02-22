@@ -1,12 +1,12 @@
 {
-  "name": "angular-arquitectua-objetos",
+  "name": "lab_funeraria",
   "version": "1.0.0",
-  "description": "Prueba de Arquitectura",
+  "description": "Laboratorio Funeraria",
   "main": "public/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Judith Alvarado",
+  "author": "Ramé",
   "license": "ISC",
   "dependencies": {
     "@uirouter/angularjs": "^1.0.7",
